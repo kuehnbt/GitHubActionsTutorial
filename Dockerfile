@@ -1,4 +1,4 @@
-FROM openjdk:11-jre-alpine
+FROM openjdk:19-jdk-alpine3.16
 
 EXPOSE 8080
 
